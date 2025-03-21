@@ -2,7 +2,7 @@
 
 # greenbox
 
-![GitHub followers](https://img.shields.io/github/followers/GreenBox?style=social)
+![GitHub followers](https://img.shields.io/github/followers/AquaGreenBox?style=social)
 
 ---
 
